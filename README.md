@@ -23,3 +23,7 @@ This is a simple music player application created using the Tkinter library in P
    - The elements are placed using the `place` and `pack` methods to define their position in the GUI window.
 6. The `mainloop()` function is called to start the GUI event loop and handle user interactions.
 When the user interacts with the GUI, the corresponding functions are called to perform the desired actions, such as playing, stopping, pausing, resuming, and loading songs.Overall, this code creates a basic music player interface using Tkinter and utilizes the pygame.mixer module for audio playback.
+
+https://github.com/Madalacharitavya/MusicPlayer-Using-Python/assets/102969979/3cd2fa67-ea86-41e1-9e85-c8fd71856864
+
+
