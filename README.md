@@ -26,4 +26,11 @@ When the user interacts with the GUI, the corresponding functions are called to 
 
 https://github.com/Madalacharitavya/MusicPlayer-Using-Python/assets/102969979/3cd2fa67-ea86-41e1-9e85-c8fd71856864
 
+## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
